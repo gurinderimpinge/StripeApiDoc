@@ -1,6 +1,6 @@
 **Charge Amount Contractor Account Api**
 ----
-Description : Charge Amount Contractor Account.
+Description : This will Charge Amount from Contractor Account.
 
 * **URL**
 
