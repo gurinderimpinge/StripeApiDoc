@@ -13,7 +13,7 @@ Description : Verify Contractor Account.
 
 <pre>
 {
-   "amountOne": (int required), 
+  "amountOne": (int required), 
   "amountTwo": "(int required)",
   "stripeCustomerId": "(string required)",
   "bankId": "(string required)"
@@ -39,14 +39,12 @@ Description : Verify Contractor Account.
 	
 * **Content:**<br />
 <pre>
-{
-  {
+{ 
     "status": true,
     "message": "Account has been verified",
     "error": null,
     "data": "verified",
     "token": null
-}
 }
 </pre>
 
