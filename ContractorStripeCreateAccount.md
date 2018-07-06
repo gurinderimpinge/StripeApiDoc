@@ -55,7 +55,7 @@ Description : This will Create new Contractor Account.
         "created": 1530864206,
         "defaultSourceId": "ba_1CkouXJO26RVIZrdI9v0Myie",
         "delinquent": false,       
-        "email": "gurinder.impinge@gmail.com",
+        "email": "test@gmail.com",
         "invoice_prefix": "E0BBC23",        
         "sources": {
             "object": "list",
