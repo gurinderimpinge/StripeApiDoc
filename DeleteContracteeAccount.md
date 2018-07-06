@@ -31,6 +31,7 @@ Description : This will delete Contractee Account.
 	{
     "message": "Account is not found"
 }
+</pre>
  **Contractor ApiDoc:** <br/>
 [Contractor Stripe CreateAccount ApiDoc](https://github.com/gurinderimpinge/StripeApiDoc/blob/master/ContractorStripeCreateAccount.md)<br/>
 [Verify Contractor Account ApiDoc](https://github.com/gurinderimpinge/StripeApiDoc/blob/master/VerifyContractorAccount.md)<br/>
