@@ -60,7 +60,7 @@ Description : This will Charge Amount from Contractor Account.
         "transfer_group": "715ef81b-a12a-45c0-8f6a-d207bf76b549",
         "id": "py_1CkqHNJO26RVIZrd5iHcg8rl",
         "stripeResponse": null
-    }   
+          }   
 }
 </pre>
 
@@ -73,13 +73,13 @@ Description : This will Charge Amount from Contractor Account.
     }
     </pre>  
 
- * **Contractor ApiDoc:** <br/>
+ **Contractor ApiDoc:** <br/>
 [Contractor Stripe CreateAccount ApiDoc](https://github.com/gurinderimpinge/StripeApiDoc/blob/master/ContractorStripeCreateAccount.md)
 [Verify Contractor Account ApiDoc](https://github.com/gurinderimpinge/StripeApiDoc/blob/master/VerifyContractorAccount.md)
 [Charge PaymentFrom ContractorAccount Apidoc ](https://github.com/gurinderimpinge/StripeApiDoc/blob/master/ChargeAmountContractorAccount.md)
 [PaymentStatus Contractor Account ApiDoc](https://github.com/gurinderimpinge/StripeApiDoc/blob/master/PaymentStatusContractorAccount.md)
 [Delete Contractor stripe Account ApiDoc](https://github.com/gurinderimpinge/StripeApiDoc/blob/master/DeleteContractorAccount.md)
- * **Contractee ApiDoc:** <br/>
+ **Contractee ApiDoc:** <br/>
 [Contractee Stripe CreateAccount ApiDoc](https://github.com/gurinderimpinge/StripeApiDoc/blob/master/ContracteeStripeCreateAccount.md)
 [Delete Contractee Account ApiDoc](https://github.com/gurinderimpinge/StripeApiDoc/blob/master/DeleteContracteeAccount.md)
 [Transfer PaymentTo Contractee Apidoc ](https://github.com/gurinderimpinge/StripeApiDoc/blob/master/TransferPaymentToContractee.md)
