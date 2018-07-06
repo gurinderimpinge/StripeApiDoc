@@ -29,7 +29,6 @@ Code: 200
 * **Content:**<br />
 <pre>
 {
-{
     "status": true,
     "message": "Account is already verified",
     "error": null,
