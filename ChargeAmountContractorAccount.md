@@ -62,7 +62,9 @@ Description : This will Charge Amount from Contractor Account.
         "stripeResponse": null
           }   
 }
+
 </pre>
+
 
 * **Error Response:**
 
