@@ -31,7 +31,7 @@ Description : This will Charge Amount from Contractor Account.
 	  "stripeCustomerId": "cus_DAQnciDFSOAFN0",
 	  "receiptEmail": "test@gmail.com"
  }
- 
+ </pre>
 * **Success Response:**
 
 	Code: 200 
