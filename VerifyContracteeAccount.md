@@ -24,5 +24,18 @@ Description : This will Verify Contractee Account.
 }
 </pre>
 
+Code: 200 
+	
+* **Content:**<br />
+<pre>
+{
+{
+    "status": true,
+    "message": "Account is already verified",
+    "error": null,
+    "data": null,
+    "token": null
+}
+</pre>
 
 
