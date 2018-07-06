@@ -1,6 +1,6 @@
 **Stripe Create Contractor Account Api**
 ----
-Description : Stripe Create Contractor Account.
+Description : This will Create new Contractor Account.
 
 * **URL**
 
