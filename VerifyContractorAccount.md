@@ -16,8 +16,7 @@ Description : This will Verify Contractor Account.
   "amountOne": (int required), 
   "amountTwo": "(int required)",
   "stripeCustomerId": "(string required)",
-  "bankId": "(string required)"
- 
+  "bankId": "(string required)" 
 }	 
 </pre>   
 
@@ -30,7 +29,7 @@ Description : This will Verify Contractor Account.
   "amountTwo": 45,
   "stripeCustomerId": "cus_DB9xvlmdH53o2M",
   "bankId": "ba_1CknduJO26RVIZrdtBj57YDR"  
-}
+  }
 
 </pre> 
 * **Success Response:**
@@ -67,7 +66,7 @@ Code: 200
 	<pre>
 	{
      "message": "There is no account against this contractor Id"
-    }
+        }
 
-	
+	</pre>
 
