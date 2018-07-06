@@ -30,7 +30,7 @@ Description : This will Charge Amount from Contractor Account.
   "description": "Test By Api Method2ff",
   "currency": "usd",
   "stripeCustomerId": "cus_DAQnciDFSOAFN0",
-  "receiptEmail": "gurinderbagga@gmail.com"
+  "receiptEmail": "test@gmail.com"
  }
  
 * **Success Response:**
@@ -54,7 +54,7 @@ Description : This will Charge Amount from Contractor Account.
         "customerId": "cus_DBBH5pF83Tsxnw",
         "description": "Test By Api Method2ff", 
         "paid": false,
-        "receipt_email": "gurinder.impinge@gmail.com",
+        "receipt_email": "test@gmail.com",
         "status": "pending",
         "transferId": null,
         "transfer_group": "715ef81b-a12a-45c0-8f6a-d207bf76b549",
