@@ -12,25 +12,24 @@ Description : This will Charge Amount from Contractor Account.
 * **Data Params** <br />
 
 <pre>
-{
-  "amount": (int required), 
-  "description": "(string required)",
-  "currency": "(string required)",
-  "stripeCustomerId": "(string required)"
-  "receiptEmail": "(string required)" 
+ {
+	  "amount": (int required), 
+	  "description": "(string required)",
+	  "currency": "(string required)",
+	  "stripeCustomerId": "(string required)"
+	  "receiptEmail": "(string required)" 
 }	 
 </pre>   
 
 * **Example:** <br/>
 
 <pre>
-
  {
-  "amount": 150,
-  "description": "Test By Api Method2ff",
-  "currency": "usd",
-  "stripeCustomerId": "cus_DAQnciDFSOAFN0",
-  "receiptEmail": "test@gmail.com"
+	  "amount": 150,
+	  "description": "Test By Api Method2ff",
+	  "currency": "usd",
+	  "stripeCustomerId": "cus_DAQnciDFSOAFN0",
+	  "receiptEmail": "test@gmail.com"
  }
  
 * **Success Response:**
@@ -60,7 +59,7 @@ Description : This will Charge Amount from Contractor Account.
         "transfer_group": "715ef81b-a12a-45c0-8f6a-d207bf76b549",
         "id": "py_1CkqHNJO26RVIZrd5iHcg8rl",
         "stripeResponse": null
-          }   
+    }   
 }
 </pre>
 
@@ -69,7 +68,7 @@ Description : This will Charge Amount from Contractor Account.
     Code: 400 Bad Request
     <pre>
     {
-     "message": "No such customer: {stripeCustomerId}"
+      "message": "No such customer: {stripeCustomerId}"
     }
     </pre>  
     
@@ -86,3 +85,4 @@ Description : This will Charge Amount from Contractor Account.
 [Delete Contractee Account ApiDoc](https://github.com/gurinderimpinge/StripeApiDoc/blob/master/DeleteContracteeAccount.md)
 [Transfer PaymentTo Contractee Apidoc ](https://github.com/gurinderimpinge/StripeApiDoc/blob/master/TransferPaymentToContractee.md)
 [Verify ContracteeAccount ApiDoc](https://github.com/gurinderimpinge/StripeApiDoc/blob/master/VerifyContracteeAccount.md)
+
