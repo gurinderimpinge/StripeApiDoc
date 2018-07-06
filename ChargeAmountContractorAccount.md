@@ -74,6 +74,7 @@ Description : This will Charge Amount from Contractor Account.
      "message": "No such customer: {stripeCustomerId}"
     }
     </pre>  
+    
 
  **Contractor ApiDoc:** <br/>
 [Contractor Stripe CreateAccount ApiDoc](https://github.com/gurinderimpinge/StripeApiDoc/blob/master/ContractorStripeCreateAccount.md)
