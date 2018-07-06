@@ -53,7 +53,6 @@ Description : This will Create new Contractee Account.
 * **Example:** <br/>
 
 <pre>
-
  {
   "email": "test@gmail.com",
   "type": "custom",
@@ -89,7 +88,7 @@ Description : This will Create new Contractee Account.
   
  "Identitybase64format": "base64"
 }
-	
+</pre>	
 
 * **Success Response:**
 
@@ -252,8 +251,8 @@ Description : This will Create new Contractee Account.
 * **Error Response:**
 
     Code: 400 Bad Request
-	<pre>
-	{
+<pre>
+{
     "error": false,
     "valid": false,
     "message": "The request is invalid.",
