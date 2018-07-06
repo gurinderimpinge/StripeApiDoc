@@ -55,29 +55,29 @@ Description : This will Create new Contractee Account.
 <pre>
 
  {
-  "email": "vainderimpinge@gmail.com",
+  "email": "test@gmail.com",
   "type": "custom",
   "tosAcceptanceDate": "03-07-2018",
   "tosAcceptanceIp": "10.91.0.143",
   "externalBankAccount": {
-  "accountHolderName": "Varinder",
+  "accountHolderName": "Test",
   "accountHolderType": "individual",
   "accountNumber": "000123456789",
   "routingNumber": "110000000",
   "country": "us",
   "currency": "usd"
 },
-  "businessName": "Varinder",
+  "businessName": "Test",
   "country": "us",
   "legalEntity": {
      "type": "individual",
-  "firstName": "Varinder",
-  "lastName": "Bagga",
+  "firstName": "Test",
+  "lastName": "Test",
   "birthDay": 15,
   "birthMonth": 05,
   "birthYear": 1986,
   "businessTaxId": "BusinessTaxId",
-  "businessName": "Varinder",
+  "businessName": "Test",
   "addressCity": "New York",
   "addressState": "New York",
   "addressLine1": "New York",
@@ -105,7 +105,7 @@ Description : This will Create new Contractee Account.
     "data": {
         "object": "account",
         "businessLogoFileId": null,
-        "business_name": "Varinder",
+        "business_name": "Test",
         "business_primary_color": null,
         "business_url": null,
         "charges_enabled": true,
@@ -120,7 +120,7 @@ Description : This will Create new Contractee Account.
         "default_currency": "usd",
         "details_submitted": true,
         "display_name": null,
-        "email": "vainderimpinge@gmail.com",
+        "email": "test@gmail.com",
         "external_accounts": {
             "object": "list",
             "data": [
@@ -131,7 +131,7 @@ Description : This will Create new Contractee Account.
                     "bankAccount": {
                         "object": "bank_account",
                         "account": "acct_1CkqoIAUuKd6japZ",
-                        "account_holder_name": "Varinder",
+                        "account_holder_name": "Test",
                         "account_holder_type": "individual",
                         "bank_name": "STRIPE TEST BANK",
                         "country": "US",
@@ -167,7 +167,7 @@ Description : This will Create new Contractee Account.
                 "town": null,
                 "stripeResponse": null
             },            
-            "business_name": "Varinder",          
+            "business_name": "Test",          
             "business_tax_id_provided": true,
             "business_vat_id_provided": false,
             "dob": {
@@ -176,11 +176,11 @@ Description : This will Create new Contractee Account.
                 "year": 1986,
                 "stripeResponse": null
             },
-            "first_name": "Varinder",
+            "first_name": "Test",
             "first_name_kana": null,
             "first_name_kanji": null,
             "gender": null,
-            "last_name": "Bagga",
+            "last_name": "Test",
             "last_name_kana": null,
             "last_name_kanji": null,
             "maiden_name": null,
