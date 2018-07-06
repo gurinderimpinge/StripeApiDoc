@@ -1,6 +1,6 @@
 **Delete Contractor Account Api**
 ----
-Description : Delete Contractor Account.
+Description : This will Delete Contractor Account.
 
 * **URL**
 
