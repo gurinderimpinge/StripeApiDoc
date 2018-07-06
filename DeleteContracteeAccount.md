@@ -27,11 +27,12 @@ Description : This will delete Contractee Account.
 * **Error Response:**
 
     Code: 400 Bad Request
-	<pre>
-	{
+<pre>
+{
     "message": "Account is not found"
 }
 </pre>
+
  **Contractor ApiDoc:** <br/>
 [Contractor Stripe CreateAccount ApiDoc](https://github.com/gurinderimpinge/StripeApiDoc/blob/master/ContractorStripeCreateAccount.md)<br/>
 [Verify Contractor Account ApiDoc](https://github.com/gurinderimpinge/StripeApiDoc/blob/master/VerifyContractorAccount.md)<br/>
