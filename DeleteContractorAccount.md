@@ -16,11 +16,11 @@ Description : Delete Contractor Account.
 	
 * **Content:**<br />
 <pre>
-{ 
+{
     "status": true,
-    "message": "Account has been verified",
+    "message": "Stripe account has been deleted",
     "error": null,
-    "data": "verified",
+    "data": null,
     "token": null
 }
 </pre>
