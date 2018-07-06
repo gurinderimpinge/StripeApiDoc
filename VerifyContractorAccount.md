@@ -1,6 +1,6 @@
 **Verify Contractor Account Api**
 ----
-Description : Verify Contractor Account.
+Description : This will Verify Contractor Account.
 
 * **URL**
 
