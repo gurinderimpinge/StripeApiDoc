@@ -32,8 +32,7 @@ Description : This will Charge Amount from Contractor Account.
   "stripeCustomerId": "cus_DAQnciDFSOAFN0",
   "receiptEmail": "gurinderbagga@gmail.com"
  }
-
-
+ 
 * **Success Response:**
 
 	Code: 200 
@@ -61,20 +60,17 @@ Description : This will Charge Amount from Contractor Account.
         "transfer_group": "715ef81b-a12a-45c0-8f6a-d207bf76b549",
         "id": "py_1CkqHNJO26RVIZrd5iHcg8rl",
         "stripeResponse": null
-    }
-   
+    }   
 }
 </pre>
-
 
 * **Error Response:**
 
     Code: 400 Bad Request
-	<pre>
-	{
+    <pre>
+    {
      "message": "No such customer: {stripeCustomerId}"
     }
-   
+    </pre>  
 
-	
 
