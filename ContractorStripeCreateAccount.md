@@ -9,7 +9,37 @@ Description : Stripe Create Contractor Account.
 * **Method:** 
 
     Post
+* **Data Params** <br />
 
+<pre>
+{
+   "email": (string required),
+  "type": "custom",
+  "country": "(string required)",
+  "accountHolderName": "(string required)",
+  "accountHolderType": "individual",
+  "accountNumber": "(integer required)",
+  "routingNumber": "(integer required)",
+  "currency": "string  required",
+  "token":"null" 
+}	 
+</pre>   
+
+* **Example:** <br/>
+
+<pre>
+{
+   "email": "123@gmail.com",
+  "type": "custom",
+  "country": "US",
+  "accountHolderName": "Test",
+  "accountHolderType": "individual",
+  "accountNumber": "000123456789",
+  "routingNumber": "110000000",
+  "currency": "usd",
+  "token":"null"
+}
+</pre> 
 * **Success Response:**
 
 	Code: 200 
