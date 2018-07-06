@@ -81,14 +81,14 @@ Description : This will Transfer Payment from Contractor Account to contractee a
     Code: 400 Bad Request
  <pre>	
     {
-    "error": true,
-    "valid": true,
-    "message": "An internal server error occurred.",
-    "data": null
-	}
+	    "error": true,
+	    "valid": true,
+	    "message": "An internal server error occurred.",
+	    "data": null
+    }
 </pre>
 
-    **Contractor ApiDoc:** <br/>
+**Contractor ApiDoc:** <br/>
 [Contractor Stripe CreateAccount ApiDoc](https://github.com/gurinderimpinge/StripeApiDoc/blob/master/ContractorStripeCreateAccount.md)
 [Verify Contractor Account ApiDoc](https://github.com/gurinderimpinge/StripeApiDoc/blob/master/VerifyContractorAccount.md)
 [Charge PaymentFrom ContractorAccount Apidoc ](https://github.com/gurinderimpinge/StripeApiDoc/blob/master/ChargeAmountContractorAccount.md)
