@@ -1,0 +1,22 @@
+http://localhost:50198/v1/stripe/ChargeAmount
+
+{
+  "amount": 150,
+  "description": "Test By Api Method2ff",
+  "currency": "usd",
+  "stripeCustomerId": "cus_DAQnciDFSOAFN0",
+  "receiptEmail": "gurinderbagga@gmail.com"
+}
+
+http://localhost:50198/v1/stripe/VerifyAccount
+
+{
+  "amountOne": 32,
+  "amountTwo": 45,
+  "stripeCustomerId": "cus_DAXXTLZb0Gq23A",
+  "bankId": "ba_1CkCS9Cfzk5fybzPP7iMSRdZ"
+}
+
+http://localhost:50198/v1/stripe/PaymentStatus
+
+http://localhost:50198/v1/stripe/DeleteContractorAccount/id
