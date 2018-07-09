@@ -30,7 +30,7 @@ Code: 200
 <pre>
 {
     "status": true,
-    "message": "Account is already verified",
+    "message": "Account is already verified.",
     "error": null,
     "data": null,
     "token": null
