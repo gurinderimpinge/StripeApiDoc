@@ -45,7 +45,7 @@ Description : This will Transfer Payment from Contractor Account to contractee a
 <pre>
 {
     "status": true,
-    "message": null,
+    "message": "Payment has been transfered.",
     "error": null,
     "data": {
         "object": "transfer",
