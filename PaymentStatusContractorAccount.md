@@ -17,7 +17,7 @@ Description : This will check all the Payment status of the connected Contractor
 <pre>
 {
     "status": true,
-    "message": "Payment status has been updated",
+    "message": "Payment status has been updated.",
     "error": null,
     "data": null,
     "token": null
@@ -30,7 +30,7 @@ Description : This will check all the Payment status of the connected Contractor
 <pre>
 {
     "status": true,
-    "message": "Payment status already up to date",
+    "message": "Payment status already up to date.",
     "error": null,
     "data": null,
     "token": null
