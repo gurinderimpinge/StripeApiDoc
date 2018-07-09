@@ -96,7 +96,7 @@ Description : This will Create new Contractor Account.
     Code: 400 Bad Request
 <pre>
 {
-    "message": "Account number is already exists."
+    "message": "Account number already exists."
 }
 </pre><br />
 
