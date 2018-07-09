@@ -40,7 +40,7 @@ Description : This will Verify Contractor Account.
 <pre>
 { 
     "status": true,
-    "message": "Account has been verified",
+    "message": "Account has been verified.",
     "error": null,
     "data": "verified",
     "token": null
@@ -53,7 +53,7 @@ Code: 200
 <pre>
 {
     "status": true,
-    "message": "Account already verified",
+    "message": "Account already verified.",
     "error": null,
     "data": null,
     "token": null
@@ -63,12 +63,11 @@ Code: 200
 * **Error Response:**
 
     Code: 400 Bad Request
-	<pre>
-	{
+ <pre>
+  {
      "message": "There is no account against this contractor Id"
-        }
-
-	</pre>
+  }
+  </pre>
 	
 **Contractor ApiDoc:** <br/>
  
