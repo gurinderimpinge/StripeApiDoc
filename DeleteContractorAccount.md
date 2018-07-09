@@ -18,7 +18,7 @@ Description : This will Delete Contractor Account.
 <pre>
 {
     "status": true,
-    "message": "Stripe account has been deleted",
+    "message": "Contractor account has been deleted.",
     "error": null,
     "data": null,
     "token": null
