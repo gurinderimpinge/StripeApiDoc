@@ -40,7 +40,7 @@ Description : This will Charge Amount from Contractor Account.
 <pre>
 {
     "status": true,
-    "message": "Amount of usd 150 has been charged",
+    "message": "Amount of usd 150 has been charged.",
     "error": null,
     "data": {
         "object": "charge",
