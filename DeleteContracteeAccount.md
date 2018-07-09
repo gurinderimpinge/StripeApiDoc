@@ -17,7 +17,7 @@ Description : This will delete Contractee Account.
 <pre>
 {
     "status": true,
-    "message": "Stripe account has been deleted",
+    "message": "Contractee account has been deleted.",
     "error": null,
     "data": null,
     "token": null
@@ -29,7 +29,7 @@ Description : This will delete Contractee Account.
     Code: 400 Bad Request
 <pre>
 {
-    "message": "Account is not found"
+    "message": "Account not found."
 }
 </pre>
 
