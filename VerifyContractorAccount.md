@@ -65,7 +65,14 @@ Code: 200
     Code: 400 Bad Request
  <pre>
   {
-     "message": "There is no account against this contractor Id"
+     "message": "There is no account against this contractor Id."
+  }
+  </pre>
+  <br/>
+     Code: 400 Bad Request
+ <pre>
+  {
+     "message": "The amounts provided do not match the amounts that were sent to the bank account."
   }
   </pre>
 	
