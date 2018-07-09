@@ -16,7 +16,7 @@ Description : This will Charge Amount from Contractor Account.
 	  "amount": (int required), 
 	  "description": "(string required)",
 	  "currency": "(string required)",
-	  "stripeCustomerId": "(string required)"
+	  "stripeCustomerId": "(string required)",
 	  "receiptEmail": "(string required)" 
 }	 
 </pre>   
