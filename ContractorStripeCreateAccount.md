@@ -1,4 +1,4 @@
-**Stripe Create Contractor Account Api**
+**Create Contractor Account Api**
 ----
 Description : This will Create new Contractor Account.
 
@@ -48,7 +48,7 @@ Description : This will Create new Contractor Account.
 <pre>
 {
     "status": true,
-    "message": "New Stripe account has been Created",
+    "message": "New Contactor account has been Created.",
     "error": null,
     "data": {
         "object": "customer",       
@@ -94,15 +94,13 @@ Description : This will Create new Contractor Account.
 * **Error Response:**
 
     Code: 400 Bad Request
-	<pre>
-	{
-    "message": "Account number is already exists"
-    }
+<pre>
+{
+    "message": "Account number is already exists."
+}
+</pre><br />
 
-	</pre>
-	Code: 400 Bad Request
-	
-
+     Code: 400 Bad Request
 <pre>
 {
     "error": false,
@@ -139,7 +137,7 @@ Description : This will Create new Contractor Account.
         ]
     }
 }
- </pre>
+</pre>
 
  **Contractor ApiDoc:** <br/>
 [Contractor Stripe CreateAccount ApiDoc](https://github.com/gurinderimpinge/StripeApiDoc/blob/master/ContractorStripeCreateAccount.md)<br/>
