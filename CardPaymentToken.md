@@ -97,7 +97,7 @@ Description : This will create Card Token to make Card Payment.
 }
 </pre>
 
-* **Error Response:**
+* **Error Response:** <br/>
 Code: 400 Bad Request
 <pre>	
 {
