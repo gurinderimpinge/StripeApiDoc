@@ -37,7 +37,7 @@ Description : This will create Card Token to make Card Payment.
   "Name" : "Test Name"
  }
  
-* **Success Response:**
+* **Success Response:**<br />
 Code: 200 	
 * **Content:**<br />
 <pre>
