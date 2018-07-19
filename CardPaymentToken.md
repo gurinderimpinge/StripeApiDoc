@@ -29,7 +29,6 @@ Description : This will create Card Token to make Card Payment.
 
 * **Example:** <br/>
 <pre>
-
  {
   "CardNumber" : "4242424242424242",
   "ExpirationYear" : 22,
@@ -37,9 +36,9 @@ Description : This will create Card Token to make Card Payment.
   "Cvc" :"123",
   "Name" : "Test Name"
  }
+ 
 * **Success Response:**
-
-	Code: 200 	
+Code: 200 	
 * **Content:**<br />
 <pre>
 {
