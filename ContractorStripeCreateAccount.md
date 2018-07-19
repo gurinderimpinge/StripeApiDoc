@@ -30,7 +30,7 @@ Description : This will Create new Contractor Account.
 <pre>
 {
    "email": "123@gmail.com",
-  "type": "custom",
+  "type": "custom", * **The Stripe account type, Can be standard, express, or custom **
   "country": "US",
   "accountHolderName": "Test",
   "accountHolderType": "individual",
