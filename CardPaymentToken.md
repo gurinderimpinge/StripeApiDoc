@@ -10,7 +10,6 @@ Description : This will create Card Token to make Card Payment.
     Post
 	
 * **Data Params** <br />
-
 <pre>
 {
   "CardNumber": "(string required)",
@@ -25,12 +24,10 @@ Description : This will create Card Token to make Card Payment.
    "AddressState": "(string )",
   "AddressZip": "(string )",  
    "Currency": "(string )"   
-}	 
-
-</pre>   
+}
+</pre>  
 
 * **Example:** <br/>
-
 <pre>
 
  {
@@ -40,12 +37,9 @@ Description : This will create Card Token to make Card Payment.
   "Cvc" :"123",
   "Name" : "Test Name"
  }
-
-
 * **Success Response:**
 
-	Code: 200 
-	
+	Code: 200 	
 * **Content:**<br />
 <pre>
 {
@@ -103,18 +97,10 @@ Description : This will create Card Token to make Card Payment.
 }
 </pre>
 
-
 * **Error Response:**
-
 Code: 400 Bad Request
-<pre>
-	
+<pre>	
 {
    "message": "Your card number is incorrect."
-}
-	
+}	
 </pre>
-   
-
-	
-
