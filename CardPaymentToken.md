@@ -96,7 +96,6 @@ Description : This will create Card Token to make Card Payment.
     "token": null
 }
 </pre>
-
 * **Error Response:** <br/>
 Code: 400 Bad Request
 <pre>	
@@ -104,6 +103,7 @@ Code: 400 Bad Request
    "message": "Your card number is incorrect."
 }	
 </pre>
+
  **Contractor ApiDoc:** <br/>
  
 [Contractor Stripe CreateAccount ApiDoc](https://github.com/gurinderimpinge/StripeApiDoc/blob/master/ContractorStripeCreateAccount.md) <br/>
