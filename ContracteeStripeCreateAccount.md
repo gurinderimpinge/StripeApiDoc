@@ -52,10 +52,11 @@ Description : This will Create new Contractee Account.
 
 * **Example:** <br/>
 
+
 <pre>
  {
   "email": "test@gmail.com",
-  "type": "custom",
+  "type": "custom", * **The Stripe account type. Can be standard, express, or custom **
   "tosAcceptanceDate": "03-07-2018",
   "tosAcceptanceIp": "10.91.0.143",
   "externalBankAccount": {
