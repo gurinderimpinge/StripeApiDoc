@@ -36,7 +36,7 @@ Description : This will create Card Token to make Card Payment.
   "Cvc" :"123",
   "Name" : "Test Name"
  }
- 
+</pre>
 * **Success Response:**<br />
 Code: 200 	
 * **Content:**<br />
