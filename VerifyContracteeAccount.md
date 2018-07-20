@@ -4,7 +4,7 @@ Description : This will Verify Contractee Account.
 
 * **URL**
 
-   v1/stripe/VerifyContracteeAccount/{stripeConectedId}
+   v1/stripe/VerifyAccount/{stripeConectedId}
 
 * **Method:** 
     Get
