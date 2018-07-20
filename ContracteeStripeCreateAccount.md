@@ -100,7 +100,7 @@ Description : This will Create new Account.
 <pre>
 {
     "status": true,
-    "message": "New Contractee account has been created.",
+    "message": "New account has been created.",
     "error": null,
     "data": {
         "object": "account",
