@@ -18,7 +18,7 @@ Description : This will Transfer Payment from Contractor Account to contractee a
     "tranferGroup": "(string required)",
     "paymentDescription": "(string required)",
     "currency": "(string required)",
-    "stripeCustomerId": "(string required)",
+    "stripeChargeId": "(string required)",
     "receiptEmail": "(string required)",
 }	 
 </pre>   
@@ -33,7 +33,7 @@ Description : This will Transfer Payment from Contractor Account to contractee a
     "tranferGroup": "bee8d641-e25c-4177-8b94-0e01450098d9",
     "paymentDescription": "Payment transfer to contractor",
     "currency": "usd",
-    "stripeCustomerId": "py_1CkoVfJO26RVIZrd9esDbTrp",
+    "stripeChargeId": "py_1CkoVfJO26RVIZrd9esDbTrp",
     "receiptEmail": "test@gmail.com"
 }
 </pre>
