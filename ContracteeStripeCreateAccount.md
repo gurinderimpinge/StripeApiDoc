@@ -1,10 +1,10 @@
-**Create Contractee Account Api**
+**Create  Account Api**
 ----
-Description : This will Create new Contractee Account.
+Description : This will Create new Account.
 
 * **URL**
 
-   v1/stripe/Contractee/CreateAccount
+   v1/stripe/CreateAccount
 
 * **Method:** 
     Post
