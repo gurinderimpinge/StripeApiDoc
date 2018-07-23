@@ -26,6 +26,7 @@ Description : This will Create new Account.
   "currency": "(string required)",
 },
   "businessName": "(string)",
+  "profileId": "(string)",
   "country": "(string)",
   "legalEntity": {
      "type":"(string)",
@@ -68,6 +69,7 @@ Description : This will Create new Account.
   "currency": "usd"
 },
   "businessName": "Test",
+  "profileId":"64646464",
   "country": "us",
   "legalEntity": {
      "type": "individual",
