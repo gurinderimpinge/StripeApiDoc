@@ -26,8 +26,8 @@ Description : This will Verify Contractor Account.
   {
   "amountOne": 32,
   "amountTwo": 45,
-  "stripeCustomerId": "cus_DB9xvlmdH53o2M",
-  "bankId": "ba_1CknduJO26RVIZrdtBj57YDR"  
+  "stripeCustomerId": "cus_DB9xvlmdH53o2M"
+ 
   }
 
 </pre> 
