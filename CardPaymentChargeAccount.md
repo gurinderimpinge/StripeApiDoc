@@ -157,7 +157,7 @@ Description : This will charge Amount through Card.
 }
 </pre>
  **Create Account  ApiDoc:** <br/>
-[Contractor Stripe CreateAccount ApiDoc](https://github.com/gurinderimpinge/StripeApiDoc/edit/master/CreateAccount.md)<br/>
+[CreateAccount ApiDoc](https://github.com/gurinderimpinge/StripeApiDoc/edit/master/CreateAccount.md)<br/>
 
 **Verify Account  ApiDoc:** <br/>
 [Verify Account ApiDoc](https://github.com/gurinderimpinge/StripeApiDoc/blob/master/VerifyContractorAccount.md)<br/>
