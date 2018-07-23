@@ -13,8 +13,7 @@ Description : This will Transfer Payment from Contractor Account to contractee a
 
 <pre>
 {
-    "transferToAccount": "(string required)",
-    "amount": "(string required)",
+    "transferToAccount": "(string required)",   
     "tranferGroup": "(string required)",
     "paymentDescription": "(string required)",
     "currency": "(string required)",
