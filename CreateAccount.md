@@ -30,6 +30,7 @@ Description : This will Create new Account.
   "legalEntity": {    
   "firstName": "(string)",
   "lastName": "(string)",
+  "type":"(string) type of legal identity it can be individual or company"
   "birthDay": "(int required)",
   "birthMonth": "(int required)",
   "birthYear": "(int required)",
