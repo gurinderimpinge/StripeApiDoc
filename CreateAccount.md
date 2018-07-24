@@ -13,8 +13,8 @@ Description : This will Create new Account.
 
 <pre>
 {
-  "email": "(string)",
-  "type": "(string)",
+  "email": "(string required)",
+  "type": "(string required)",
   "tosAcceptanceDate": "(string required)",
   "tosAcceptanceIp": "(string required)",
   "externalBankAccount": {
