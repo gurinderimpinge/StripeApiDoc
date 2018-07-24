@@ -27,8 +27,7 @@ Description : This will Create new Account.
   "businessName": "(string)",
   "profileId": "(string required)",
   "country": "(string)",
-  "legalEntity": {
-     "type":"(string)",
+  "legalEntity": {    
   "firstName": "(string)",
   "lastName": "(string)",
   "birthDay": "(int required)",
@@ -69,8 +68,7 @@ Description : This will Create new Account.
   "businessName": "Test",
   "profileId":"64646464",
   "country": "us",
-  "legalEntity": {
-     "type": "individual",
+  "legalEntity": {    
   "firstName": "Test",
   "lastName": "Test",
   "birthDay": 15,
