@@ -15,7 +15,7 @@ Description : This will Create new Account.
 {
   "email": "(string required)",
   "type": "(string required)",
-  "tosAcceptanceDate": "(string required)",
+  "tosAcceptanceDate": "(string)",
   "tosAcceptanceIp": "(string required)",
   "externalBankAccount": {
   "accountHolderName":"(string required)",
@@ -58,7 +58,7 @@ Description : This will Create new Account.
  {
   "email": "test@gmail.com",
   "type": "custom", * **The Stripe account type. Can be standard, express, or custom **
-  "tosAcceptanceDate": "03-07-2018",
+  "tosAcceptanceDate": "03-07-2018", * **Detail of acceptance of the Stripe Services Agreement**
   "tosAcceptanceIp": "10.91.0.143",
   "externalBankAccount": {
   "accountHolderName": "Test",
@@ -87,8 +87,7 @@ Description : This will Create new Account.
   "personalIdNumber": "472174199",
   "addressPostalCode": "11003",
     "country": "us",
-},
-  
+},  
  "Identitybase64format": "base64"
 }
 </pre>	
