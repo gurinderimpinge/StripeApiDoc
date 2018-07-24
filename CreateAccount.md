@@ -14,8 +14,7 @@ Description : This will Create new Account.
 <pre>
 {
   "email": "(string required)",
-  "type": "(string required)",
-  "tosAcceptanceDate": "(string)",
+  "type": "(string required)", 
   "tosAcceptanceIp": "(string required)",
   "externalBankAccount": {
   "accountHolderName":"(string required)",
@@ -57,8 +56,7 @@ Description : This will Create new Account.
 <pre>
  {
   "email": "test@gmail.com",
-  "type": "custom", * **The Stripe account type. Can be standard, express, or custom **
-  "tosAcceptanceDate": "03-07-2018", * **Detail of acceptance of the Stripe Services Agreement**
+  "type": "custom", * **The Stripe account type. Can be standard, express, or custom ** 
   "tosAcceptanceIp": "10.91.0.143",
   "externalBankAccount": {
   "accountHolderName": "Test",
