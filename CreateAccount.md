@@ -14,7 +14,7 @@ Description : This will Create new Account.
 <pre>
 {
   "email": "(string required)",
-  "type": "(string required)", 
+  "type": "(string required) The Stripe account type, Can be standard, express, or custom", 
   "tosAcceptanceIp": "(string required)",
   "externalBankAccount": {
   "accountHolderName":"(string required)",
