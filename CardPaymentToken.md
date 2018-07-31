@@ -4,7 +4,7 @@ Description : This will create Card Token to make Card Payment.
 
 * **URL**
 
-   v1/stripe/CardToken
+   v1/stripe/SaveCardDetails
 
 * **Method:** 
     Post
