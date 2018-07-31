@@ -4,7 +4,7 @@ Description : This will charge Amount through Card.
 
 * **URL**
 
-   v1/stripe/CardPaymentCharge
+   v1/stripe/CardChargeAmount
 
 * **Method:** 
     Post
