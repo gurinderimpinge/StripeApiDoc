@@ -142,10 +142,11 @@ Description : This will charge Amount through Card.
         "transferId": null,
         "transfer_group": "08f056b0-99f2-4ea4-9f48-94e9732662b4",
         "id": "ch_1CpYjbJO26RVIZrdnV6Dj3TL",
-        "stripeResponse": {}
+        "stripeResponse": "null"
     },
     "token": null
 }
+
 </pre>
 
 
