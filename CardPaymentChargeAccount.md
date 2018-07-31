@@ -16,7 +16,8 @@ Description : This will charge Amount through Card.
   "amount": (int required), 
   "description": "(string required)",
   "currency": "(string required)",
-  "CardToken": "(string required)" 
+  "stripeCustomerId": "(string required)",
+  "receiptEmail":"(string required)"
 }
 
 </pre>   
@@ -26,10 +27,11 @@ Description : This will charge Amount through Card.
 <pre>
  
  {
-  "amount": 100,
-  "description": "Amount charged via card sample",
+  "amount": 10,
+  "description": "Amount charged from Contractor",
   "currency": "usd",
-  "CardToken": "tok_1CpYQPwewrewVIZrdM29OTEOL"
+  "stripeCustomerId": "cus_DJ7GpXtGlL3blfgggq",
+  "receiptEmail": "eeee@gmail.com"
 
 }
 
